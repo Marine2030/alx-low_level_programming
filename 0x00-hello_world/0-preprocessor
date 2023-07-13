@@ -1,2 +1,2 @@
 #!/bin/bash
-CFILE="alo" gcc -E  > c
+CFILE="gcc -E" > c

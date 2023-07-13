@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -E | mv 0-preprocessor c
+gcc -E > c
